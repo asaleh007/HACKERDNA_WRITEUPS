@@ -34,7 +34,8 @@ The goal is to explain **why an attack works**, how each finding leads to the ne
 
 | Lab | Main techniques | Outcome | Write-up |
 | :--- | :--- | :---: | :---: |
-| **Infiltrator** | JWT secret cracking · Role manipulation · SSH · Unsafe `eval` | 👑 Root access | [📖 Read](./Infiltrator/README.md) |
+| **Infiltrator** | JWT secret cracking · Role manipulation · SSH · Unsafe `eval` | 👑 Root access | [📖 Read](./Infiltrator/Infiltrator.pdf) |
+| **ClearDesk** | IDOR · Exposed admin credentials · LFI · Path Traversal | 🚩 User & Root flags | [📖 Read](./ClearDesk/ClearDesk.pdf) |
 
 <p align="center"><em>More labs will be added as the journey continues.</em></p>
 
