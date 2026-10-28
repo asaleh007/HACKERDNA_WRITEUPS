@@ -40,6 +40,7 @@ The goal is to explain **why an attack works**, how each finding leads to the ne
 | **AlVault** | Hidden endpoint discovery · Exposed credentials · SSH · Sudo command injection | 👑 Root access · 2 flags | [📖 Read](./AlVault/AlVault.pdf) |
 | **Spoof!** | HTTP header manipulation · X-Forwarded-For spoofing · IP restriction bypass | 🚩 Flag captured | [📖 Read](./Spoof/Spoof.pdf) |
 | **Anonymous** | Service enumeration · Anonymous FTP login · File disclosure | 🚩 Flag captured | [📖 Read](./Anonymous/Anonymous.pdf) |
+| **Include Me** | URL parameter manipulation · Local File Inclusion (LFI) · Path Traversal | 🚩 Flag captured | [📖 Read](./Include_Me/Include_Me.pdf) |
 <p align="center"><em>More labs will be added as the journey continues.</em></p>
 
 ## 🔍 Inside the write-ups
