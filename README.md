@@ -38,6 +38,7 @@ The goal is to explain **why an attack works**, how each finding leads to the ne
 | **ClearDesk** | IDOR · Exposed admin credentials · LFI · Path Traversal | 🚩 User & Root flags | [📖 Read](./ClearDesk/ClearDesk.pdf) |
 | **SQL Injection** | Authentication bypass · UNION-based SQLi · SQLite enumeration · Data extraction | 🚩 Flag captured | [📖 Read](./SQL_Injection/SQL_Injection.pdf) |
 | **AlVault** | Hidden endpoint discovery · Exposed credentials · SSH · Sudo command injection | 👑 Root access · 2 flags | [📖 Read](./AlVault/AlVault.pdf) |
+| **Spoof!** | HTTP header manipulation · X-Forwarded-For spoofing · IP restriction bypass | 🚩 Flag captured | [📖 Read](./Spoof/Spoof.pdf) |
 <p align="center"><em>More labs will be added as the journey continues.</em></p>
 
 ## 🔍 Inside the write-ups
